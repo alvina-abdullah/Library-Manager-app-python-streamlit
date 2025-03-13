@@ -36,7 +36,7 @@ with st.sidebar.form(key="add_book_form"):
         st.sidebar.success(f"✅ '{title}' added successfully!")
 
 # --- SEARCH & FILTER ---
-st.header("🔍 Search & Filter Books")
+st.header("🔍 Browse & Sort Books")
 col1, col2 = st.columns(2)
 search_query = col1.text_input("Search by Title or Author")
 genre_filter = col2.selectbox("Filter by Genre", ["All"] + list(st.session_state.books["Genre"].unique()), index=0)
