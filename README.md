@@ -24,7 +24,7 @@ Follow these steps to set up and run the Library Manager App:
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/library-manager-app-python-streamlit.git
+git clone https://github.com/alvina-abdullah/Library-Manager-app-python-streamlit.git
 cd library-manager-app
 
 2. Install Dependencies
