@@ -116,4 +116,4 @@ if st.button("❌ Remove Book"):
         st.error("❌ Book not found!")
 
 # --- FOOTER ---
-st.markdown("📖 Manage your library with ease! Made with ❤️ using **Streamlit & Python**")
+st.markdown("📖 Manage your library with ease! **© 2025 Alvina Abdullah. Built with 🩷. \n All rights Reserved**")
